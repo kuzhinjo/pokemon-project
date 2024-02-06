@@ -1,7 +1,7 @@
 # pokemon-project
 
 Tasked Assigned Thus Far: 
-Aditya - size/power scatter/bar graphs
+Aditya - weight/attack scatter/boxplot graphs
 Marshall - Happiness scatter/bar graphs
 Trey - Types scatter/bar graphs
 Matthew - is_legendary scattter/bar graphs
