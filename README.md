@@ -40,13 +40,20 @@
 
 ### 5. Height & Weight of Pokemon correlate with its various base stats
 
+**File Name**: Pokemon-hw-corr.ipynb
+
 **Findings**: There is a positive correlation with Height/Weight with Pokemon’s various other base stats like Hit Points/ Attack/ Defense/ Special Attack/ Special Defence/ Speed
 
 - Height Vs Weight is having a strong positive correlation
 - Height & Weight is having relatively similar positive correlation with all other base stats
 
+![Alt text](<../images/corr_h_vs_w_1.png>)
 
+**Findings**: 
+- Most of the base stats fall under height 5ft
+- Most of the base stats fall under weight 200 kg
 
+![Alt text](<../images/corr_h_vs_w_2.png>)
 ## Tech
 
 > Language and packages used for presentation slides:
