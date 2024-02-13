@@ -47,7 +47,7 @@
 - Height Vs Weight is having a strong positive correlation
 - Height & Weight is having relatively similar positive correlation with all other base stats
 
-![Alt text](<../images/corr_h_vs_w_1.png>)
+![Alt text](<https://github.com/kuzhinjo/pokemon-project/blob/rajeev_branch/images/corr_h_vs_w_1.png>)
 
 **Findings**: 
 - Most of the base stats fall under height 5ft
