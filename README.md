@@ -62,12 +62,30 @@ In this analysis, we explore the relationship between weight and other base stat
 In summary, understanding the interplay between weight and base stats can inform strategic decisions when assembling a Pokémon team. Trainers should consider these relationships to optimize battle performance.
 
 ## Assigned Tasks 
-Aditya - size/power scatter/bar graphs
-Marshall - Happiness scatter/bar graphs
-Trey - Types scatter/bar graphs
-Matthew - is_legendary scattter/bar graphs
-Rajeev - height/weight correlated to base stats
-Eric - Narrative of case study
+1) Aditya - size/power scatter/bar graphs
+2) Marshall - Happiness scatter/bar graphs
+3) Trey - Types scatter/bar graphs
+4)  Matthew - is_legendary scattter/bar graphs
+5)  Rajeev - height/weight correlated to base stats
+6)  Eric - Narrative of case study
+
+
+### 5. Height & Weight of Pokemon correlate with its various base stats
+
+**File Name**: Pokemon-hw-corr.ipynb
+
+**Findings**: There is a positive correlation with Height/Weight with Pokemon’s various other base stats like Hit Points/ Attack/ Defense/ Special Attack/ Special Defence/ Speed
+
+- Height Vs Weight is having a strong positive correlation
+- Height & Weight is having relatively similar positive correlation with all other base stats
+
+![Alt text](<https://github.com/kuzhinjo/pokemon-project/blob/rajeev_branch/images/corr_h_vs_w_1.png>)
+
+**Findings**: 
+- Most of the base stats fall under height 5ft
+- Most of the base stats fall under weight 200 kg
+
+![Alt text](<https://github.com/kuzhinjo/pokemon-project/blob/rajeev_branch/images/corr_h_vs_w_2.png>)
 
 ## Tech
 
