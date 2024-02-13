@@ -53,7 +53,8 @@
 - Most of the base stats fall under height 5ft
 - Most of the base stats fall under weight 200 kg
 
-![Alt text](<../images/corr_h_vs_w_2.png>)
+![Alt text](<https://github.com/kuzhinjo/pokemon-project/blob/rajeev_branch/images/corr_h_vs_w_2.png>)
+
 ## Tech
 
 > Language and packages used for presentation slides:
