@@ -34,7 +34,7 @@
 2) Marshall - Happiness scatter/bar graphs
 3) Trey - Types scatter/bar graphs
 4)  Matthew - is_legendary scattter/bar graphs
-5)  Rajeev - height/weight correlated to base stats [Link](##Source)
+5)  Rajeev - height/weight correlated to base stats
 6)  Eric - Narrative of case study
 
 
