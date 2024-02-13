@@ -20,9 +20,13 @@
 
 ## Analysis
 1.) Height/Weight
+
 2.) Type
+
 3.) Happiness
+
 4.) Legendary pokemon
+
 5.) Weight/attack
 
 ## Assigned Tasks 
