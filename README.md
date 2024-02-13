@@ -33,27 +33,27 @@ In this analysis, we explore the relationship between weight and other base stat
 * Data Preparation
  1. Handling Missing Values: Initially, we encountered missing weight values. To address this, we replaced these missing entries with zeroes. For instance, certain ghost-type Pokémon have no weight, and this adjustment ensures consistency in our analysis.
 * Exploratory Data Analysis
- 1. Weight Distribution:
+    1. Weight Distribution:
   * We created a box plot to visualize the distribution of Pokémon weights.
   * The upper bound of the box plot was 141.65 kilograms.
   * We observed several outliers above this upper bound. As outliers can distort results, we removed them from further analysis.
 * Linear Regression Analysis
- 1. Weight vs. Attack:
+    1. Weight vs. Attack:
   * We performed linear regression between weight and attack values.
   * The regression equation is: Weight = 0.5 * Attack - 3.4.
   * The correlation coefficient ® for this regression was 0.45.
- 2. Weight vs. Defense:
+    2. Weight vs. Defense:
   * Similarly, we conducted linear regression between weight and defense values.
   * The regression equation is: Weight = 0.5 * Defense - 2.3.
   * The correlation coefficient ® for this regression was 0.43.
- 3. Weight vs. Hit Points (HP):
+    3. Weight vs. Hit Points (HP):
   * Finally, we explored the relationship between weight and HP.
   * The regression equation is: Weight = 0.6 * HP - 5.7.
   * The correlation coefficient ® for this regression was also 0.43.
 * Findings and Implications
- * Weight and Attack: There is a moderate positive correlation between weight and attack. Heavier Pokémon tend to have higher attack stats.
- * Weight and Defense: A similar trend exists between weight and defense. Heavier Pokémon often exhibit stronger defensive capabilities.
- * Weight and HP: While the correlation is not as strong, weight still plays a role in determining HP. Heavier Pokémon may have slightly higher hit points.
+    * Weight and Attack: There is a moderate positive correlation between weight and attack. Heavier Pokémon tend to have higher attack stats.
+    * Weight and Defense: A similar trend exists between weight and defense. Heavier Pokémon often exhibit stronger defensive capabilities.
+    * Weight and HP: While the correlation is not as strong, weight still plays a role in determining HP. Heavier Pokémon may have slightly higher hit points.
 In summary, understanding the interplay between weight and base stats can inform strategic decisions when assembling a Pokémon team. Trainers should consider these relationships to optimize battle performance.
 
 ## Assigned Tasks 
