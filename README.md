@@ -66,11 +66,11 @@ In summary, understanding the interplay between weight and base stats can inform
 2) Marshall - Happiness scatter/bar graphs
 3) Trey - Types scatter/bar graphs
 4)  Matthew - is_legendary scattter/bar graphs
-5)  Rajeev - [height/weight correlated to base stats](#5-height--weight-of-pokemon-correlate-with-its-various-base-stats)
+5)  Rajeev - [height/weight correlated to base stats](#5-height--weight-of-a-pokemon-correlate-with-its-various-base-stats)
 6)  Eric - Narrative of case study
 
 
-### Height & Weight of a Pokemon Correlate with its various base stats
+### 5. Height & Weight of a Pokemon Correlate with its various base stats
 
 **File Name**: Pokemon-hw-corr.ipynb
 
