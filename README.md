@@ -70,7 +70,7 @@ In summary, understanding the interplay between weight and base stats can inform
 6)  Eric - Narrative of case study
 
 
-### Height & Weight of a Pokemon Correlate with its various base stats
+### 5. Height & Weight of a Pokemon Correlate with its various base stats
 
 **File Name**: Pokemon-hw-corr.ipynb
 
