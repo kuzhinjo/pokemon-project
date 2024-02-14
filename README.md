@@ -27,7 +27,7 @@
 
 4.) Legendary pokemon
 
-5.) Weight
+5.) Weight (Aditya)
 
 In this analysis, we explore the relationship between weight and other base stats of Pokémon in our dataset. Specifically, we focus on the correlation between weight and attack, defense, and hit points (HP). Understanding these stats is crucial for assessing a Pokémon’s abilities and potential success in battles.
 
