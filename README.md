@@ -22,6 +22,25 @@
 1.) Height/Weight
 
 2.) Type
+Type analysis was focused on attack, defense, and capture rate as it correlates to the types of Pokemon.  We believe this is important to understand because if we are constructing a Pokemon team we would want to know how to build our attack and defense line up accordingly and how difficult it would be to capture these pokemon.
+
+* Data Preparation
+    1. We began by building a dataframe which consisted of type, sub type, attack, defense, and capture along with other base stats.  We had to account for the fact that not every Pokemon had a subtype.
+
+* Exploratory Data Analysis
+    1. Type with highest attack:
+        * We created a bar graph depicting the highest attack value on average by type
+        * We also created a bar graph depicting the highest attack value on average for the the sub type
+    2. Type with highest defense:
+        * We created a bar graph depicting the highest defense value on average by type
+        * We also created a bar graph depicting the hightest defense value for sub type
+    3. Capture Rate:
+        * Created a bar graph depicting the capture rate for the highest rated attack/defense types of Pokemon
+* Findings
+    1. We discovered that the Pokemon Type Dragon and more specifically the sub type Electric Dragons would have the highest attack value on average
+    2. We also discovered that the type Steel Pokemon would have the highest Defense value on average and the electric sub type has the highest defense on average as well.
+    
+In summary we are seeing Dragon and Steel Pokemon are the top Pokemon for attack and defense as well as the eletric sub type for each average the highest defense
 
 3.) Happiness
 
