@@ -29,7 +29,7 @@
 
 5.) Weight (Aditya)
 
-In this analysis, we explore the relationship between weight and other base stats of Pokémon in our dataset. Specifically, we focus on the correlation between weight and attack, defense, and hit points (HP). Understanding these stats is crucial for assessing a Pokémon’s abilities and potential success in battles.
+In this weight analysis, we explore the relationship between weight and other base stats of Pokémon in our dataset. Specifically, we focus on the correlation between weight and attack, defense, and hit points (HP). Understanding these stats is crucial for assessing a Pokémon’s abilities and potential success in battles.
 
 * Data Preparation
     1. Handling Missing Values: Initially, we encountered missing weight values. To address this, we replaced these missing entries with zeroes. For instance, certain ghost-type Pokémon have no weight, and this adjustment ensures consistency in our analysis.
