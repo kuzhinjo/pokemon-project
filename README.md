@@ -19,13 +19,13 @@
 - Linear Regression
 
 ## Analysis
-1.) Height/Weight
+1.) Height/Weight (Rajeev)
 
-2.) Type
+2.) Type (Trey)
 
-3.) Happiness
+3.) Happiness (Marshall)
 
-4.) Legendary pokemon
+4.) Legendary pokemon (Matthew)
 
 5.) Weight (Aditya)
 
