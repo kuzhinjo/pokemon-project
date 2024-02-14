@@ -19,8 +19,9 @@
 - Linear Regression
 
 ## Analysis
-1.) Height/Weight
+1.) Height/Weight (Rajeev)
 
+2.) Type (Trey)
 2.) Type
 Type analysis was focused on attack, defense, and capture rate as it correlates to the types of Pokemon.  We believe this is important to understand because if we are constructing a Pokemon team we would want to know how to build our attack and defense line up accordingly and how difficult it would be to capture these pokemon.
 
@@ -42,13 +43,13 @@ Type analysis was focused on attack, defense, and capture rate as it correlates 
     
 In summary we are seeing Dragon and Steel Pokemon are the top Pokemon for attack and defense as well as the eletric sub type for each average the highest defense
 
-3.) Happiness
+3.) Happiness (Marshall)
 
-4.) Legendary pokemon
+4.) Legendary pokemon (Matthew)
 
-5.) Weight
+5.) Weight (Aditya)
 
-In this analysis, we explore the relationship between weight and other base stats of Pokémon in our dataset. Specifically, we focus on the correlation between weight and attack, defense, and hit points (HP). Understanding these stats is crucial for assessing a Pokémon’s abilities and potential success in battles.
+In this weight analysis, we explore the relationship between weight and other base stats of Pokémon in our dataset. Specifically, we focus on the correlation between weight and attack, defense, and hit points (HP). Understanding these stats is crucial for assessing a Pokémon’s abilities and potential success in battles.
 
 * Data Preparation
     1. Handling Missing Values: Initially, we encountered missing weight values. To address this, we replaced these missing entries with zeroes. For instance, certain ghost-type Pokémon have no weight, and this adjustment ensures consistency in our analysis.
