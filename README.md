@@ -164,3 +164,29 @@ https://github.com/kuzhinjo/pokemon-project
 ## Source
 Dataset: https://www.kaggle.com/datasets/rounakbanik/pokemon
 Presentation: https://docs.google.com/presentation/d/1FgmIuxf7HZm4OATzsp8qCN_ysdtrYmqu8obk5Sn_ZGo/edit?usp=sharing
+
+## Pokemon tournament code
+
+
+**Pokémon Effectiveness System**
+At the heart of our simulation lies the Pokémon Effectiveness System, a comprehensive mechanic that respects the deep strategic elements intrinsic to Pokémon battles. Drawing inspiration from the rich tapestry of Pokémon types, this system intricately maps the complex web of strengths, weaknesses, and resistances that define Pokémon combat. Here's how it unfolds:
+
+1. Type Dynamics: Each Pokémon is assigned specific types, reflecting their natural affinities and abilities. These types critically influence battle outcomes, making or breaking the path to victory.
+
+2. Effectiveness Dictionary: A detailed dictionary encapsulates the effectiveness of each type against others, guiding the flow of battle with calculated multipliers that emulate the classic Pokémon battle experience.
+
+
+
+**Simulating the Battle**
+The simulation breathes life into the clash of titans, where two selected Pokémon engage in a fierce battle of wits, strength, and endurance. The simulation meticulously accounts for:
+
+1. Health Points (HP): The vital essence of each Pokémon. Battles rage on until one contender's HP is depleted.
+2. Attack and Defense: The offensive and defensive capabilities of each Pokémon, crucial in calculating the impact of each blow struck.
+3. Type Effectiveness: Leveraging the Effectiveness System, each attack's potency is adjusted for type advantages or disadvantages, adding a layer of strategic depth to every encounter.
+
+**Running the Tournament**
+The tournament is structured as a series of rounds, each more intense than the last, as Pokémon battle for dominance. The simulation keeps a meticulous record of the proceedings:
+
+1. Round Tracking: The tournament's progress is carefully monitored, with each round bringing us closer to the ultimate showdown.
+2. Winners List: Victory in battle secures a Pokémon's place in the next round, with a winners list compiled at the end of each round to track the champions' ascendancy.
+3. Climactic Finale: The tournament continues its relentless elimination process until only one Pokémon remains standing, crowned as the supreme legend of the Pokémon realm.
