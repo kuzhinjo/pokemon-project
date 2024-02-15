@@ -81,6 +81,42 @@ In this weight analysis, we explore the relationship between weight and other ba
       
 In summary, understanding the interplay between weight and base stats can inform strategic decisions when assembling a Pokémon team. Trainers should consider these relationships to optimize battle performance.
 
+3. The Impacts of Happiness
+
+File Name: Happiness_code.ipynb
+
+Findings and Implications:
+
+    -Legendary Pokemon tend to be less happy
+    Legendary Pokemon come at a price
+
+    -The vast majority of Pokemon have an average base happiness level, with the bell curve naturally skewed towards “less happy”
+    Most Pokemon have average happiness levels, with the bell curve naturally skewed towards “less happy”
+
+    -Generally speaking, the “darker” the Pokemon’s demographic, the higher the average experience growth
+    This could mean that darker Pokemon have more incentive for personal growth, or that hardship tends to build experience more quickly
+
+    -Over the generations, base happiness averages are trending downwards, while the number of legendary pokemon is trending upward
+    This furthers the suggestion that in soma capacity, legendary status is linked to base happiness
+
+    -On average, the “darker” the Pokemon’s demographic, the less happy they are.
+    This makes sense
+
+    -High attack seems to, in some capacity, be related to happiness, less happy Pokemon generally have higher attack abilities
+
+In summary, the base happiness of the pokemon you choose to have on your team can have an impactful effect, and the choice made should be driven by your gameplay style or intentions. If you're building a team with a focus on enduring and survival, Pokemon happiness will play into the bond you’re able to build with your Pokémon. For competitive play, there are strategic implications of in relevance to evolution & move effectiveness
+
+
+
+
+
+
+
+
+
+
+
+
 ## Assigned Tasks 
 1) Aditya - size/power scatter/bar graphs
 2) Marshall - Happiness scatter/bar graphs
